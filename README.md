@@ -1,3 +1,3 @@
 # Apna-College-Demo
 This my first Git Repository. <br>
-Author: Yug Patel
+Author: Yug Patel (Pro Programmer)
